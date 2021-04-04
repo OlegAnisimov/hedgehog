@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "name": "hedgehog",
+  "version": "1.0.0",
+  "description": "Landing",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass sass/main.sass css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegAnisimov/hedgehog.git"
+  },
+  "keywords": [
+    "hedgehog"
+  ],
+  "author": "Oleg&Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegAnisimov/hedgehog/issues"
+  },
+  "homepage": "https://github.com/OlegAnisimov/hedgehog#readme"
+}
